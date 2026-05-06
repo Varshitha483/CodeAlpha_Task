@@ -1,0 +1,10 @@
+package arrays;
+
+public class twoD_Array_Sum_Of_All_Elements {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

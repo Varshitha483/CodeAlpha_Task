@@ -1,0 +1,20 @@
+package arrays;
+
+public class twoD_Array_Introduction {
+
+	public static void main(String[] args) {
+		
+		//int array[][] = new int[3][2];      // Creating and Declaring an Array
+		
+
+
+		int array[][] = {
+		{1,2,3},
+		{4,5,6}
+		};
+		
+		System.out.print(array[0][2]);
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;inheritance.inheritanceClass.java&apos; to &apos;Guest.java&apos;&#x0D;&#x0A;- Original project: &apos;javaPractise&apos;&#x0D;&#x0A;- Original element: &apos;inheritance.inheritanceClass.java&apos;&#x0D;&#x0A;- Renamed element: &apos;inheritance.Guest.java&apos;" description="Rename compilation unit &apos;inheritanceClass.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;inheritance{inheritanceClass.java" name="Guest.java" references="false" stamp="1753808075737" version="1.0"/>
+</session>
