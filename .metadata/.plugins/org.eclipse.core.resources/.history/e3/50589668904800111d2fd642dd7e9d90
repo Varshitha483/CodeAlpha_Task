@@ -1,9 +1,0 @@
-package arrays;
-
-public class twoD_Array_Introduction {
-
-	public static void main(String[] args) {
-		
-	}
-
-}
